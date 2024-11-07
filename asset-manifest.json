@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abarnakrishnamoorthi.github.io/UID-EXP-9/static/css/main.dda01193.css",
+    "main.js": "/abarnakrishnamoorthi.github.io/UID-EXP-9/static/js/main.3bb02069.js",
+    "static/js/453.ac79db8d.chunk.js": "/abarnakrishnamoorthi.github.io/UID-EXP-9/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/abarnakrishnamoorthi.github.io/UID-EXP-9/index.html",
+    "main.dda01193.css.map": "/abarnakrishnamoorthi.github.io/UID-EXP-9/static/css/main.dda01193.css.map",
+    "main.3bb02069.js.map": "/abarnakrishnamoorthi.github.io/UID-EXP-9/static/js/main.3bb02069.js.map",
+    "453.ac79db8d.chunk.js.map": "/abarnakrishnamoorthi.github.io/UID-EXP-9/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dda01193.css",
+    "static/js/main.3bb02069.js"
+  ]
+}
